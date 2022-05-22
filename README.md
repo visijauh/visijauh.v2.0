@@ -1,2 +1,2 @@
 # visijauh.v2.0
-selamat datang
+selamat datang di vj versi 2.0
